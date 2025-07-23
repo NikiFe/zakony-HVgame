@@ -65,7 +65,7 @@
 
 4.3. Každý hráč či **PSub** smí být současně přímým členem a vlastníkem maximálně jednoho **PSub**.
 
-4.4. Každý **PSub** musí obsahovat unikátní název, adekvátní zkratku a barvu, přičemž **PStr** i vlastníka.
+4.4. Každý **PSub** musí obsahovat unikátní název, adekvátní zkratku a barvu. **PStr** musí navíc obsahovat i vlastníka, který za danou PStr jedná. Vlastníky PUsk jsou vlastníci všech zúčastněných PStr.
 
 4.5. Každý **PSubN** má k dispozici vlastní veřejný a soukromý Discord kanál, do kterých mohou členové daného **PSubN** posílat zprávy. Každá **PStr**, která je součástí **PUsk**, má k dispozici vlastní soukromý Discord kanál.
 
