@@ -1,13 +1,25 @@
 # Ústava HVgame
 
 ---
-
 ## Seznam zkratek
 
+*   **PSub** - Politický subjekt
+*   **PStr** - Politická strana
+*   **PUsk** - Politické uskupení
+*   **PSubN** - PSub nejvyššího řádku
 *   **RH** - Rada HVgame
 *   **PSPHV** - Poslanecká sněmovna HVgame
 *   **VS** - Voličská síla
 *   **Poslanec** - Hráč s **VS**
+
+---
+
+## Definice
+
+*   **PSub** - **PStr** či **PUsk**
+*   **PStr** - **PSub**, který obsahuje pouze hráče
+*   **PUsk** - **PSub**, který obsahuje pouze **PStr** nebo **PUsk**
+*   **PSubN** - **PSub**, který není součástí jiných **PSub**
 
 ---
 
@@ -45,15 +57,19 @@
 
 ---
 
-## 4. Politická uskupení
+## 4. PUsk
 
-4.1. Každý hráč má právo založit si vlastní politické uskupení, či se připojit ke stávajícím politickým uskupením, splňuje-li jejich podmínky pro členství.
+4.1. Každý hráč má právo vytvořit vlastní **PStr**, či se připojit ke stávajícím **PStr**, splňuje-li podmínky.
 
-4.2. Hráč smí být současně členem maximálně jednoho politického uskupení.
+4.2. Každý **PSub** má právo, na základě vzájemné dohody mezi všemi, minimálně ale dvěma, zúčastněnými **PSub**, vytvořit **PUsk**.
 
-4.3. Každé politické uskupení musí obsahovat unikátní název, krátký název do 4 znaků a barvu.
+4.3. Každý hráč či **PSub** smí být současně přímým členem a vlastníkem maximálně jednoho **PSub**.
 
-4.4. Každé politické uskupení má k dispozici vlastní veřejný a soukromý Discord kanál, do kterých mohou členové daného uskupení posílat zprávy. V případě, že po dobu 45 dní nebyla ve veřejném Discord kanálu politického uskupení poslána zpráva, politické uskupení zaniká.
+4.4. Každý **PSub** musí obsahovat unikátní název, adekvátní zkratku a barvu, přičemž **PStr** i vlastníka.
+
+4.5. Každý **PSubN** má k dispozici vlastní veřejný a soukromý Discord kanál, do kterých mohou členové daného **PSubN** posílat zprávy. Každá **PStr**, která je součástí **PUsk**, má k dispozici vlastní soukromý Discord kanál.
+
+4.6. V případě, že po dobu 45 dní nebyla od vytvoření veřejného Discord kanálu **PSubN** či poslední zprávy v daném Discord kanálu poslána zpráva, nebo nesplňuje-li daný **PSub** podmínky pro jeho vytvoření, daný **PSubN** zaniká.
 
 ---
 
