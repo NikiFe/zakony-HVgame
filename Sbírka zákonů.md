@@ -5,12 +5,12 @@
 ## HLAVA I: VLÁDA A FEDERÁLNÍ ORGÁNY
 
 #### Zákon č. 105/5: Správa dopravní infrastruktury
-> Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu serveru a je pod správou ministra dopravy.
+> Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu federace a je pod správou ministra dopravy.
 
 #### Zákon č. 105/8: Technické normy IDSHV
 > IDSHV zveřejňuje závazné normy pro stavbu dopravní infrastruktury.
 
-#### Zákon č. 105/9: Správa státní kasy
+#### Zákon č. 105/9: Správa federální kasy
 > Státní kasa HVgame je spravována ministrem financí. Veškeré příjmy a výdaje musí být provedeny v souladu se zákonem.
 
 #### Zákon č. 105/12: Dohled nad výkonem soudních rozhodnutí
@@ -47,7 +47,7 @@
 #### Zákon č. 105/20: Povinnost účasti v diskuzi
 > Předseda PSPHV smí předvolat poslance k diskuzi. Předvolaný poslanec je povinen se k projednávanému bodu vyjádřit.
 
-#### Zákon č. 105/21: Kázeňská opatření předsedy PSPHV
+#### Zákon č. 105/21: Pořádkové pokuty v PSPHV
 > Předseda PSPHV smí udělovat pokuty za prohřešky spáchané na daném jednání PSPHV. Tyto pokuty musí být zapsány na konec protokolu jednání.
 
 #### Zákon č. 105/22: Průběžný zápis z jednání
@@ -76,7 +76,7 @@
 ## HLAVA IV: SOUDNICTVÍ A PRÁVNÍ ŘÁD
 
 #### Zákon č. 105/11: Závaznost soudních rozhodnutí
-> Pravomocná rozhodnutí soudu jsou závazná pro všechny hráče a orgány státní moci.
+> Pravomocná rozhodnutí soudu jsou závazná pro všechny hráče a orgány federální moci.
 
 #### Zákon č. 105/15: Procesní lhůty soudního řízení
 > Soudce je povinen ihned po zareagování na námitku stanovit termín soudního jednání, které musí proběhnout nejpozději do 3 dnů.
@@ -84,7 +84,7 @@
 #### Zákon č. 105/16: Odměna soudce
 > Soudce obdrží odměnu ve výši 5 000 b.ch. ihned po zareagování na námitku.
 
-#### Zákon č. 106/1: Pořádkové pokuty soudu
+#### Zákon č. 106/1: Pořádkové pokuty u soudu
 > Soudce smí udělovat pořádkové pokuty za prohřešky spáchané na daném soudním jednání, tyto pokuty musí být zapsány ve verdiktu jednání. Pořádková pokuta nesmí přesáhnout výši 100b.
 
 #### Zákon č. 106/3: Soudní tresty
@@ -94,13 +94,13 @@
 
 ## HLAVA V: EKONOMIKA
 
-#### Zákon č. 105/17: Serverová měna
+#### Zákon č. 105/17: Federální měna
 > Oficiální měnou serveru jsou body chování (zkratka b.ch. nebo b).
 
 ## HLAVA VI: STÁTY
 
 #### Zákon č. 106/4: Vytváření státních zákonů
-> Regiony mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník regionu, a to ve spolupráci s rezidenty regionu. Serverové zákony mají přednost před regionálními zákony.
+> Státy mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník státu, a to ve spolupráci s rezidenty státu. Federální zákony mají přednost před státními zákony.
 
 #### Zákon č. 106/5: Zásahy PSPHV do států
-> PSPHV nesmí zasahovat do vnitřních záležitostí regionů. Je oprávněna přijímat pouze serverové zákony, které nesmí omezovat svobodu žádného z jednotlivých regionů. Regionální legislativa musí být výsledkem spolupráce vlastníka a rezidentů, PSPHV do ní smí vydat pouze nezávazné stanovisko.
+> PSPHV nesmí zasahovat do vnitřních záležitostí států. Je oprávněna přijímat pouze federální zákony, které nesmí omezovat svobodu žádného z jednotlivých států. Státní legislativa musí být výsledkem spolupráce vlastníka a rezidentů, PSPHV do ní smí vydat pouze nezávazné stanovisko.
