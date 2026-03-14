@@ -2,12 +2,7 @@
 
 ---
 
-## HLAVA I: VLÁDA A STÁTNÍ ORGÁNY
-
-#### Zákon č. 105/1: Složení vlády
-> Vláda je ustavena v následujícím složení:
-> - **Předseda vlády, Ministr dopravy, Ministr financí:** Vitjaaa
-> - **Ministr spravedlnosti:** NikiFem
+## HLAVA I: VLÁDA A FEDERÁLNÍ ORGÁNY
 
 #### Zákon č. 105/5: Správa dopravní infrastruktury
 > Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu serveru a je pod správou ministra dopravy.
@@ -61,6 +56,8 @@
 #### Zákon č. 105/23: Protokol o zahájení jednání
 > Předseda PSPHV musí při zahájení jednání PSPHV zapsat číslo jednání, účast, své jméno jako předsedy a aktuální rozložení Voličské síly.
 
+#### Zákon č. 106/2: Aktualizace pluginů a verzí Minecraftu
+> PSPHV schvaluje změny pluginů a verze Minecraftu, implementovány musí být pouze tehdy, pokud jsou technicky proveditelné.
 ---
 
 ## HLAVA III: MAJETKOVÁ A OBČANSKÁ PRÁVA
@@ -87,9 +84,23 @@
 #### Zákon č. 105/16: Odměna soudce
 > Soudce obdrží odměnu ve výši 5 000 b.ch. ihned po zareagování na námitku.
 
+#### Zákon č. 106/1: Pořádkové pokuty soudu
+> Soudce smí udělovat pořádkové pokuty za prohřešky spáchané na daném soudním jednání, tyto pokuty musí být zapsány ve verdiktu jednání. Pořádková pokuta nesmí přesáhnout výši 100b.
+
+#### Zákon č. 106/3: Soudní tresty
+> Soudce smí jako součást verdiktu udělit trest hráči, kterému byla v rámci daného soudního jednání prokázána vina. Mezi povolené tresty patří: pokuta do výše 25 000b, veřejně prospěšné práce po dobu maximálně 3 hodin, vyvlastnění pozemku, exekuce majetku, zákaz činnosti po dobu maximálně 14 dní, ban z Minecraft serveru po dobu maximálně 2 dní, odnětí svobody po dobu maximálně 1 hodiny. Soudce smí udělit podmíněný trest po dobu maximálně 30 dní. Soudce smí udělit pouze přiměřený trest. Soudce smí udělit i zvláštní trest, pokud s tím souhlasí navrhovatel i obžalovaný.
+
 ---
 
 ## HLAVA V: EKONOMIKA
 
-#### Zákon č. 105/17: Státní měna
+#### Zákon č. 105/17: Serverová měna
 > Oficiální měnou serveru jsou body chování (zkratka b.ch. nebo b).
+
+## HLAVA VI: STÁTY
+
+#### Zákon č. 106/4: Vytváření státních zákonů
+> Regiony mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník regionu, a to ve spolupráci s rezidenty regionu. Serverové zákony mají přednost před regionálními zákony.
+
+#### Zákon č. 106/5: Zásahy PSPHV do států
+> PSPHV nesmí zasahovat do vnitřních záležitostí regionů. Je oprávněna přijímat pouze serverové zákony, které nesmí omezovat svobodu žádného z jednotlivých regionů. Regionální legislativa musí být výsledkem spolupráce vlastníka a rezidentů, PSPHV do ní smí vydat pouze nezávazné stanovisko.
