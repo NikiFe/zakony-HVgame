@@ -15,22 +15,31 @@
 
 ---
 
-## HLAVA II: PRAVOMOCI VLÁDY
+## HLAVA II: FEDERÁLNÍ VLÁDA
 
-#### Zákon č. 105/5: Správa dopravní infrastruktury
-> Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu federace a je pod správou ministra dopravy.
+### PRAVOMOCI
 
-#### Zákon č. 105/7: Správa sbírky zákonů
-> Vláda je povinna zřídit a spravovat veřejně přístupnou Sbírku zákonů. Každý schválený zákon musí být ve Sbírce zveřejněn s číslem jednání, unikátním číslem a plným textem. Zákon je platný okamžikem zveřejnění.
-
-#### Zákon č. 105/8: Správa technických norem IDSHV
-> IDSHV zveřejňuje závazné normy pro stavbu dopravní infrastruktury.
+#### Zákon č. 105/5 + 105/8: Správa dopravní infrastruktury IDSHV
+> Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu federace a je pod správou ministra dopravy. IDSHV zveřejňuje závazné normy pro stavbu dopravní infrastruktury.
 
 #### Zákon č. 105/9: Správa federální kasy
 > Státní kasa HVgame je spravována ministrem financí. Veškeré příjmy a výdaje musí být provedeny v souladu se zákonem.
 
 #### Zákon č. 105/12: Dohled nad výkonem soudních rozhodnutí
 > Ministr spravedlnosti dbá na dodržování pravomocných rozhodnutí soudu.
+
+#### Zákon č. 108/4: Správa federálních daní
+> Ministr financí smí maximálně dvakrát za kalendářní měsíc vyhlásit jednorázovou plošnou federální daň ve výši maximálně 15 % z celkového bohatství jednotlivého hráče. Přesná kritéria i konkrétní procentuální výši u jednotlivců stanovuje výhradně ministr financí a musí přitom k členům federace postupovat nanejvýš spravedlivě a transparentně.
+
+#### Zákon č. 108/6: Minimální mzda
+> Ministr financí určuje výši mezd všech federálních zaměstnanců (tj. zvolených poslanců PSPHV, členů vlády, vlastníků států a soudců). Mzda je kalkulována striktně podle počtu minut, během nichž hráč prokazatelně a aktivně vykonává danou činnost, přičemž minimální mzda federálního zaměstnance je pevně stanovena na 1 b za odpracovanou minutu. Platy státních zaměstnanců a úředníků nespadají pod federální pravomoc a plně se řídí příslušnými státními zákony.
+
+---
+
+### POVINNOSTI
+
+#### Zákon č. 105/7: Správa sbírky zákonů
+> Vláda je povinna zřídit a spravovat veřejně přístupnou Sbírku zákonů. Každý schválený zákon musí být ve Sbírce zveřejněn s číslem jednání, unikátním číslem a plným textem. Zákon je platný okamžikem zveřejnění.
 
 #### Zákon č. 105/14: Princip transparentnosti
 > Veškeré úřední akty členů vlády musí být transparentní.
@@ -41,15 +50,11 @@
 #### Zákon č. 108/3: Schvalování výdajů z federálního rozpočtu
 > Každý výdaj z federálních financí musí schválit ministr financí. Směrování výdajů ve státních rozpočtech však určují výhradně státní zákony bez běžného schvalování ministrem, který smí státní výdaj zamítnout pouze za zcela mimořádných a závažných okolností. Státní samosprávy smí navyšovat svůj státní rozpočet z vlastních státních příjmů. Za účelem jejich tvorby mohou zavádět a vymáhat státní daně, jejichž platnost a vymahatelnost je však omezena výlučně na území daného státu.
 
-#### Zákon č. 108/4: Správa federálních daní
-> Ministr financí smí maximálně dvakrát za kalendářní měsíc vyhlásit jednorázovou plošnou federální daň ve výši maximálně 15 % z celkového bohatství jednotlivého hráče. Přesná kritéria i konkrétní procentuální výši u jednotlivců stanovuje výhradně ministr financí a musí přitom k členům federace postupovat nanejvýš spravedlivě a transparentně.
-
-#### Zákon č. 108/6: Minimální mzda
-> Ministr financí určuje výši mezd všech federálních zaměstnanců (tj. zvolených poslanců PSPHV, členů vlády, vlastníků států a soudců). Mzda je kalkulována striktně podle počtu minut, během nichž hráč prokazatelně a aktivně vykonává danou činnost, přičemž minimální mzda federálního zaměstnance je pevně stanovena na 1 b za odpracovanou minutu. Platy státních zaměstnanců a úředníků nespadají pod federální pravomoc a plně se řídí příslušnými státními zákony.
-
 ---
 
-## HLAVA III: PRAVOMOCI PSPHV
+## HLAVA III: PSPHV
+
+### PRAVOMOCI
 
 #### Zákon č. 105/13: Odvolání člena vlády
 > PSPHV smí odvolat jakéhokoliv člena vlády. Součástí návrhu na odvolání musí být i nominace náhradníka na danou pozici.
@@ -62,21 +67,18 @@
 
 ---
 
-## HLAVA IV: JEDNACÍ ŘÁD PSPHV
+### JEDNACÍ ŘÁD PRO PŘEDSEDU PSPHV
 
 #### Zákon č. 105/2: Prioritní projednávání návrhů
 > Návrhy smí být předsedou PSPHV označeny jako prioritní (P). Tyto návrhy jsou projednány a odhlasovány přednostně.
 
-#### Zákon č. 105/3: Ochrana ústavnosti
+#### Zákon č. 105/3: Rušení protiústavních návrhů
 > Návrhy, které porušují platnou Ústavu, musí být předsedou PSPHV zrušeny bez hlasování a označeny jako neplatné.
 
-#### Zákon č. 105/19 + 110/P3 + 110/P4: Předkládání návrhů a diskuze
-> Návrhy do PSPHV se smí předkládat kdykoliv před nebo během daného jednání. Každý návrh musí projít diskuzí, při které se musí vyjádřit alespoň jeden poslanec a navrhovatel. Hráč se k návrhu v diskuzi musí vyjádřit věcně. Pokud se hráč domnívá, že je neprávem potrestán za nevěcné vyjádření, smí podat námitku k soudu.
-
-#### Zákon č. 105/20: Povinnost účasti v diskuzi
+#### Zákon č. 105/20: Předvolání poslanců k diskuzi
 > Předseda PSPHV smí předvolat poslance k diskuzi. Předvolaný poslanec je povinen se k projednávanému bodu vyjádřit.
 
-#### Zákon č. 105/21 + 109/2: Pořádkové pokuty v PSPHV
+#### Zákon č. 105/21 + 109/2: Pořádkové pokuty
 > Předseda PSPHV smí udělovat pořádkové pokuty za prohřešky spáchané na daném jednání PSPHV. Tyto pokuty musí být zapsány na konec protokolu jednání. Pořádková pokuta nesmí přesáhnout výši 100b, udělení pořádkové pokuty musí být potvrzeno hlasováním v PSPHV. V případě pochybností o ústavnosti pořádkové pokuty se smí potrestaný odvolat k RH, který prošetří její ústavnost.
 
 #### Zákon č. 105/22: Průběžný zápis z jednání
@@ -85,8 +87,27 @@
 #### Zákon č. 105/23: Protokol o zahájení jednání
 > Předseda PSPHV musí při zahájení jednání PSPHV zapsat číslo jednání, účast, své jméno jako předsedy a aktuální rozložení Voličské síly.
 
-#### Zákon č. 108/9: Řečnická lhůta
+#### Zákon č. 108/9: Řečnická lhůta a odebírání slova poslancům
 > Pro poslance PSPHV v roli navrhovatele se stanovuje řečnická lhůta 3 minuty na představení a zdůvodnění návrhu. Pro následnou rozpravu (zahrnující otázky a odpovědi) se stanovuje limit 1 minuty na jeden výstup. Předseda PSPHV smí odebrat řečníkovi slovo při zjevném záměrném zdržování jednání (obstrukci) nebo při prokazatelném odchýlení od věcné podstaty projednávaného tématu.
+
+#### Zákon č. 110/7: Vyhlašování přestávek
+> Předseda PSPHV smí vyhlásit přestávku po maximální dobu kumulativně 10 minut na dané jednání PSPHV. Pro vyhlášení přestávky nad stanovenou maximální dobu je třeba hlasování v PSPHV.
+
+#### Zákon č. 110/8: Odročování schůzí
+> Předseda PSPHV smí odročit jednání až o 48 hodin, pro odročení je třeba hlasování v PSPHV.
+
+#### Zákon č. 110/9: Zaznamenávání pracovní doby
+> Předseda PSPHV zaznamenává dobu, po kterou jsou jednotliví poslanci na daném jednání přítomní. Podle toho se odvíjí plat poslance za dané jednání.
+
+#### Zákon č. 110/12: Přítomnost předsedy PSPHV
+> Předseda PSPHV musí být přítomen na celé jednání PSPHV. V případě absence předsedy na daném jednání se pro zbytek daného jednání stane předsedou PSPHV další hráč s nejvyšší hodnotou předsednického indexu. Absenci předsedy PSPHV v případě podání námitky na nepřítomnost prověří RH.
+
+---
+
+### JEDNACÍ ŘÁD PRO POSLANCE
+
+#### Zákon č. 105/19 + 110/P3 + 110/P4: Předkládání návrhů a diskuze
+> Návrhy do PSPHV se smí předkládat kdykoliv před nebo během daného jednání. Každý návrh musí projít diskuzí, při které se musí vyjádřit alespoň jeden poslanec a navrhovatel. Hráč se k návrhu v diskuzi musí vyjádřit věcně. Pokud se hráč domnívá, že je neprávem potrestán za nevěcné vyjádření, smí podat námitku k soudu.
 
 #### Zákon č. 109/3: Výběr předsedy PSPHV
 > Předsedou PSPHV pro dané jednání se stává ten z přítomných poslanců, který dosáhne nejvyšší hodnoty tzv. Předsednického indexu. Výpočet tohoto indexu a určení předsedy probíhá podle následujícího závazného postupu:
@@ -112,30 +133,18 @@
 #### Zákon č. 110/6: Pracovní doba poslanců při přerušení schůze PSPHV
 > Poslancům se nezapočítává pracovní doba po dobu přerušení jednání PSPHV.
 
-#### Zákon č. 110/7: Vyhlašování přestávek
-> Předseda PSPHV smí vyhlásit přestávku po maximální dobu kumulativně 10 minut na dané jednání PSPHV. Pro vyhlášení přestávky nad stanovenou maximální dobu je třeba hlasování v PSPHV.
-
-#### Zákon č. 110/8: Odročování schůzí
-> Předseda PSPHV smí odročit jednání až o 48 hodin, pro odročení je třeba hlasování v PSPHV.
-
-#### Zákon č. 110/9: Zaznamenávání pracovní doby
-> Předseda PSPHV zaznamenává dobu, po kterou jsou jednotliví poslanci na daném jednání přítomní. Podle toho se odvíjí plat poslance za dané jednání.
-
 #### Zákon č. 110/10: Zřeknutí se role předsedy PSPHV
 > Poslanec se smí zřeknout role předsedy PSPHV na dané jednání PSPHV. V takovém případě se předsedou PSPHV pro dané jednání stane další hráč s nejvyšší hodnotou předsednického indexu.
 
 #### Zákon č. 110/11: Odvolání předsedy PSPHV
 > V případě úspěšného odvolání předsedy PSPHV prověří RH chování daného předsedy. Předsedou PSPHV pro zbytek daného jednání se stane další hráč s nejvyšší hodnotou předsednického indexu
 
-#### Zákon č. 110/12: Přítomnost předsedy PSPHV
-> Předseda PSPHV musí být přítomen na celé jednání PSPHV. V případě absence předsedy na daném jednání se pro zbytek daného jednání stane předsedou PSPHV další hráč s nejvyšší hodnotou předsednického indexu. Absenci předsedy PSPHV v případě podání námitky na nepřítomnost prověří RH.
-
 #### Zákon č. 110/14: Účast v PSPHV bez možnosti hlasové komunikace
 > Poslanec zúčastněný v jednání PSPHV způsobem, který mu nedává možnost komunikovat jinak než hlasem, má právo se hlásit či hlasovat využitím svého hlasu, aniž by byla tato akce považována za vyrušování, ale pouze v přiměřené míře
 
 ---
 
-## HLAVA V: MAJETKOVÁ A OBČANSKÁ PRÁVA
+## HLAVA IV: MAJETKOVÁ A OBČANSKÁ PRÁVA
 
 #### Zákon č. 105/4: Ochrana soukromého vlastnictví
 > Zakazuje se manipulace s majetkem bez výslovného povolení vlastníka daného majetku.
@@ -151,7 +160,7 @@
 
 ---
 
-## HLAVA VI: SOUDNICTVÍ A PRÁVNÍ ŘÁD
+## HLAVA V: SOUDNICTVÍ A PRÁVNÍ ŘÁD
 
 #### Zákon č. 105/11: Závaznost soudních rozhodnutí
 > Pravomocná rozhodnutí soudu jsou závazná pro všechny hráče a orgány federální moci.
@@ -176,7 +185,7 @@
 
 ---
 
-## HLAVA VII: STÁTY
+## HLAVA VI: STÁTY
 
 #### Zákon č. 106/4: Vytváření státních zákonů
 > Státy mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník státu, a to ve spolupráci s rezidenty státu. Federální zákony mají přednost před státními zákony.
@@ -186,7 +195,7 @@
 
 ---
 
-## Hlava VIII: Centrální banka
+## Hlava VII: Centrální banka
 
 #### Zákon č. 108/11: Zákon o centrální bance
 > Zavedení centrální banky x Central Bank (dále jen „xCB“). xCB je pod kontrolou guvernéra xCB. Sídlo xCB je ve státě zvoleném PSPHV. Guvernér je zvolen PSPHV společně s tímto návrhem. Guvernér určí jméno banky dosazením do proměnné x v názvu, čímž se automaticky adekvátně změní zkratka i daný název. Zvoleného guvernéra smí odvolat pouze RH. xCB smí nabízet hráčům půjčky a financování na projekty. xCB se tímto okamžikem stává hlavním bankovním orgánem pro veškeré nestátní finanční záležitosti, transakce, operace a jednání. Každý hráč má automaticky u xCB bankovní účet okamžikem přijetí tohoto návrhu (dále jen „klient“). xCB nabývá povinnosti evidovat finance všech hráčů, kontrolovat jejich zůstatek a zprostředkovávat informace vládě v případě formálního vyžádání. Formálním vyžádáním se rozumí soudní příkaz výslovně přijat soudcem pro účely vykonání potřeb vlády. Potřebou vlády se rozumí získání informací potřebných k soudnímu řízení, či k identifikaci situace hráče ve vážných situacích. Jakékoliv jiné účely pro zisk dat mohou být schváleny pouze v krajních případech a spadají pod společné schválení vlastníka xCB se soudem. Výjimkou k vyžádání dat uživatelů jsou daňové účely vlády s podmínkou žádosti od ministra financí. Guvernér xCB je vlastníkem xCB (dále jen „vlastník xCB“). xCB má právo úročit půjčky hráčům a stanovovat si podmínky dohod dle vlastního férového uvážení. xCB se zavazuje k férovosti vůči všem klientům, znamenaje stejné podmínky pro každého klienta ve stejné klientské třídě. xCB má právo držet několik typů bankovních účtů (také zvaných klientských tříd) a vyhrazuje si právo rozdělovat uživatele dle interních politik založených na finančních a profesních podmínkách klienta. xCB jedná eticky a dle zásad řádného hospodáře. V případě podezření neetického jednání má každý klient právo se odvolat na soud a v případě prokázání neřádného jednání má xCB povinnost kompenzovat adekvátně všechny postižené daným jednáním dle uvážení soudu. xCB umožňuje klientům vkládat finanční prostředky na jejich bankovní účet přímým převodem hotovosti xCB. Hotovostí se rozumí jakékoliv finance klienta mimo xCB. Přijetím tohoto návrhu bude každý klient s hotovostí požádán o vložení hotovosti v částce, kterou klient uzná za vhodnou, do svého bankovního účtu. xCB zaručuje bezpečnost osobních financí klientů, kteří mají své finance vložené na svém bankovním účtu. xCB ručí za finance všech svých klientů svými rezervami. Pod tohle ručení nespadá vlastní neuvážené jednání klienta, např. odeslání platby na špatný účet. xCB má povinnost pomáhat svým klientům v těchto situacích a pokud je v moci xCB vyřešit problémovou situaci bez porušení jiných stanovených zásad, je povinna tak učinit. xCB se stává hlavním prostředkem vyplácení financí všem klientům. Každý vlastník státu má u xCB namísto běžného účtu speciální účet vlastníka státu (dále jen „AVS“). AVS má speciální pravomoc posílat hráčům speciální platby typu Platba Státu (dále jen „PS“). Finanční záležitosti vlastníků států a občanů daných států jsou řešeny skrze xCB. V případě platby státu svému občanovi platí AVS občanovi užitím platby typu PS. Každý vlastník státu má právo mít vlastní státní banku (dále jen „SB“) zastřešenou pod xCB ve svém státě. Vlastník státu s SB je vlastníkem dané SB. SB má povinnost se řídit direktivy a pokyny xCB. xCB má právo stanovovat normy bankovnictví, kontrolovat veškerý provoz bank a financí a rozhodovat v otázkách řádného hospodářství, finanční etiky a finančních otázek obecně. Normy a jakékoliv ustanovení xCB se nesmí týkat financování jiných států, pouze hospodaření bank samotných, zacházení s daty klientů a jiných věcech netýkajících se interních záležitostí jiných států. xCB si ukládá právo v případě porušování norem xCB státní bankou okamžitě zadržet provoz dané SB. Zadržení provozu SB znamená okamžitý převod veškerých účtů dané SB přímo do xCB a zadržet veškeré platby, které daná SB provedla v poslední 48 hodinách. Ihned po zadržení SB má xCB povinnost zažádat o soudní řízení, kde soud rozhodne o právoplatnosti zadržení dané SB. Soud má pravomoc pokutovat vlastníka dané SB ve výši částky, se kterou bylo zacházeno proti normám, plus správní poplatky daného řízení zadržení SB a také má právo danou SB zrušit. V případě, že SB poruší podmínky či zásady xCB má SB povinnost vynahradit veškeré způsobené škody veškerým klientům postiženým jednáním dané SB. V případě vážného porušení zásad či podmínek má xCB pravomoc požádat soud o rozhodnutí aby vlastník daného státu ztratil právo na vytvoření dalších SB, s jedinou možností negace této skutečnosti získáním výjimky od soudu či RH. Ministr financí rozhoduje na částce, kterou xCB získá jako podporu z federální kasy. Klienti mají právo provádět platby dalším klientům, které xCB zpracovává převedením částky z bankovního účtu odesílatele příjemci. V případě, že by klient nesplatil dle smlouvy stanovené splátky (dále jen „neplátce“) má xCB právo zahájit trestní řízení řešené exekucí. Zahájení exekuce spadá na schválení soudem. V případě exekuce neplátce má xCB právo zadržet hotovost daného neplátce ve výši nesplacené částky a využít danou částku na splacení splátky. V případě, že neplátce v exekuci nemá dostatek hotovosti na splacení domluvené splátky si xCB vyhrazuje právo zabavit neplátci majetek v hodnotě nesplacené částky. Hodnotu majetku určuje exekutor. V případě kolize exekučních řízení vlády a xCB v případě neplátce daní a zároveň neplátce splátek, má exekuce vládou a proces stanovený zákony přednost a proces xCB se koná až po dokončení vládní exekuce. Vlastník xCB má právo vybrat dle vlastního uvážení jakéhokoliv hráče jako exekutora mimo stanovené výjimky. Exekutorem nesmí být následující: neplátce, klient v exekuci, k neplátci nakloněná osoba, jakákoliv osoba která může být považována za zaujatou do exekučního řízení podporující neplátce. Ohledně zaujatosti osob má poslední slovo RH. xCB má právo zadržet platbu v případě podezření trestné činnosti do rozhodnutí soudu. V případě zjištění trestné činnosti má xCB povinnost zadržet částku v dané transakci podporující trestnou činnost a částku rozdělí dle rozhodnutí soudu. Klient jehož transakce byla zadržena z důvodu trestné činnost má právo se odvolat na soud v případě chybné klasifikace. V případě prokázání, že klient je v právu, má xCB povinnost navrátit celou zadrženou částku. V případě, že daná částka byla přerozdělena, má xCB povinnost doplatit druhou polovinu z vlastní rezervy za již převedenou částku do státní kasy. Dodatečně má xCB povinnost adekvátně kompenzovat hráče za veškeré komplikace, alespoň 10% zadržené částky. xCB má právo požádat od ministra financí omluvení z povinnosti kompenzace klienta, v případě, že by kompenzace byla hrozbou pro stabilitu xCB. V případě, že ministr financí byl součástí řízení jakýmkoliv způsobem, má xCB právo žádat o dané omluvení soud. Pro zadržení platby typu PS musí xCB zahájit soudní řízení proti klientovi s AVS a získat povolení zadržet částku rozhodnutím soudu.
