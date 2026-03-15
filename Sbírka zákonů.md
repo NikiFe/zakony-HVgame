@@ -2,12 +2,25 @@
 
 ---
 
-## HLAVA I: VLÁDA A FEDERÁLNÍ ORGÁNY
+## HLAVA I: ZÁKLADNÍ DEFINICE
+
+#### Zákon č. 105/18: Definice akademických a funkčních titulů
+> Definují se následující tituly: Jdg. - Soudce, Ing. - Inženýř, Mgr. - Magistr, Bc. - Bakalář.
+
+#### Zákon č. 105/17: Definice federální měny
+> Oficiální měnou federace jsou body chování (zkratka b.ch. nebo b).
+
+---
+
+## HLAVA II: PRAVOMOCI VLÁDY
 
 #### Zákon č. 105/5: Správa dopravní infrastruktury
 > Integrovaný dopravní systém HVgame (IDSHV) spravuje dopravní infrastrukturu federace a je pod správou ministra dopravy.
 
-#### Zákon č. 105/8: Technické normy IDSHV
+#### Zákon č. 105/7: Správa sbírky zákonů
+> Vláda je povinna zřídit a spravovat veřejně přístupnou Sbírku zákonů. Každý schválený zákon musí být ve Sbírce zveřejněn s číslem jednání, unikátním číslem a plným textem. Zákon je platný okamžikem zveřejnění.
+
+#### Zákon č. 105/8: Správa technických norem IDSHV
 > IDSHV zveřejňuje závazné normy pro stavbu dopravní infrastruktury.
 
 #### Zákon č. 105/9: Správa federální kasy
@@ -19,27 +32,28 @@
 #### Zákon č. 105/14: Princip transparentnosti
 > Veškeré úřední akty členů vlády musí být transparentní.
 
-#### Zákon č. 105/18: Definice akademických a funkčních titulů
-> Definují se následující tituly: Jdg. - Soudce, Ing. - Inženýř, Mgr. - Magistr, Bc. - Bakalář.
+---
+
+## HLAVA III: PRAVOMOCI PSPHV
+
+#### Zákon č. 105/13: Odvolání člena vlády
+> PSPHV smí odvolat jakéhokoliv člena vlády. Součástí návrhu na odvolání musí být i nominace náhradníka na danou pozici.
+
+#### Zákon č. 106/2: Aktualizace pluginů a verzí Minecraftu
+> PSPHV schvaluje změny pluginů a verze Minecraftu, implementovány musí být pouze tehdy, pokud jsou technicky proveditelné.
+
+#### Zákon č. 106/5: Zásahy PSPHV do států
+> PSPHV nesmí zasahovat do vnitřních záležitostí států. Je oprávněna přijímat pouze federální zákony, které nesmí omezovat svobodu žádného z jednotlivých států. Státní legislativa musí být výsledkem spolupráce vlastníka a rezidentů, PSPHV do ní smí vydat pouze nezávazné stanovisko.
 
 ---
 
-## HLAVA II: LEGISLATIVNÍ PROCES A PSPHV
+## HLAVA IV: JEDNACÍ ŘÁD PSPHV
 
 #### Zákon č. 105/2: Prioritní projednávání návrhů
 > Návrhy smí být předsedou PSPHV označeny jako prioritní (P). Tyto návrhy jsou projednány a odhlasovány přednostně.
 
 #### Zákon č. 105/3: Ochrana ústavnosti
 > Návrhy, které porušují platnou Ústavu, musí být předsedou PSPHV zrušeny bez hlasování a označeny jako neplatné.
-
-#### Zákon č. 105/7: Sbírka zákonů
-> Vláda je povinna zřídit a spravovat veřejně přístupnou Sbírku zákonů. Každý schválený zákon musí být ve Sbírce zveřejněn s číslem jednání, unikátním číslem a plným textem. Zákon je platný okamžikem zveřejnění.
-
-#### Zákon č. 105/10: Právo veta PSPHV
-> PSPHV smí vetovat jakékoliv rozhodnutí vlády. V případě veta je vláda povinna zajistit adekvátní kompenzaci všem poškozeným stranám.
-
-#### Zákon č. 105/13: Odvolání člena vlády
-> PSPHV smí odvolat jakéhokoliv člena vlády. Součástí návrhu na odvolání musí být i nominace náhradníka na danou pozici.
 
 #### Zákon č. 105/19: Předkládání návrhů a diskuze
 > Návrhy do PSPHV se smí předkládat kdykoliv před nebo během daného jednání. Každý návrh musí projít diskuzí, při které se musí vyjádřit alespoň jeden poslanec a navrhovatel.
@@ -56,11 +70,9 @@
 #### Zákon č. 105/23: Protokol o zahájení jednání
 > Předseda PSPHV musí při zahájení jednání PSPHV zapsat číslo jednání, účast, své jméno jako předsedy a aktuální rozložení Voličské síly.
 
-#### Zákon č. 106/2: Aktualizace pluginů a verzí Minecraftu
-> PSPHV schvaluje změny pluginů a verze Minecraftu, implementovány musí být pouze tehdy, pokud jsou technicky proveditelné.
 ---
 
-## HLAVA III: MAJETKOVÁ A OBČANSKÁ PRÁVA
+## HLAVA V: MAJETKOVÁ A OBČANSKÁ PRÁVA
 
 #### Zákon č. 105/4: Ochrana soukromého vlastnictví
 > Zakazuje se manipulace s majetkem bez výslovného povolení vlastníka daného majetku.
@@ -73,7 +85,7 @@
 
 ---
 
-## HLAVA IV: SOUDNICTVÍ A PRÁVNÍ ŘÁD
+## HLAVA VI: SOUDNICTVÍ A PRÁVNÍ ŘÁD
 
 #### Zákon č. 105/11: Závaznost soudních rozhodnutí
 > Pravomocná rozhodnutí soudu jsou závazná pro všechny hráče a orgány federální moci.
@@ -92,15 +104,7 @@
 
 ---
 
-## HLAVA V: EKONOMIKA
-
-#### Zákon č. 105/17: Federální měna
-> Oficiální měnou serveru jsou body chování (zkratka b.ch. nebo b).
-
-## HLAVA VI: STÁTY
+## HLAVA VII: STÁTY
 
 #### Zákon č. 106/4: Vytváření státních zákonů
 > Státy mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník státu, a to ve spolupráci s rezidenty státu. Federální zákony mají přednost před státními zákony.
-
-#### Zákon č. 106/5: Zásahy PSPHV do států
-> PSPHV nesmí zasahovat do vnitřních záležitostí států. Je oprávněna přijímat pouze federální zákony, které nesmí omezovat svobodu žádného z jednotlivých států. Státní legislativa musí být výsledkem spolupráce vlastníka a rezidentů, PSPHV do ní smí vydat pouze nezávazné stanovisko.
