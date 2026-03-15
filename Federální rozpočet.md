@@ -3,6 +3,7 @@
 ---
 
 **Počáteční částka: 844 696,87b**
+
 **Konečná částka: 804 696,87b**
 
 **Příjmy: 32 000b**
@@ -13,7 +14,6 @@
 - Mzdy serverových zaměstnanců: 7 000b
 - Dotace: 7 000b
 - Investice: 8 000b
-  
 - **Regionální rozpočty: 50 000b**
   - Baronis: 6 000b
   - Honzov: 10 000b
