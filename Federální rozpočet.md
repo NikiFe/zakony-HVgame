@@ -11,10 +11,10 @@
 - Daně: 22 000b
   
 **Výdaje: 72 000b**
-- Mzdy serverových zaměstnanců: 7 000b
+- Mzdy federálních zaměstnanců: 7 000b
 - Dotace: 7 000b
 - Investice: 8 000b
-- **Regionální rozpočty: 50 000b**
+- **Státní rozpočty: 50 000b**
   - Baronis: 6 000b
   - Honzov: 10 000b
   - imgoodov: 2 500b
