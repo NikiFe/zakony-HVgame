@@ -4,11 +4,14 @@
 
 ## HLAVA I: ZÁKLADNÍ DEFINICE
 
+#### Zákon č. 105/17: Definice federální měny
+> Oficiální měnou federace jsou body chování (zkratka b.ch. nebo b).
+
 #### Zákon č. 105/18: Definice akademických a funkčních titulů
 > Definují se následující tituly: Jdg. - Soudce, Ing. - Inženýř, Mgr. - Magistr, Bc. - Bakalář.
 
-#### Zákon č. 105/17: Definice federální měny
-> Oficiální měnou federace jsou body chování (zkratka b.ch. nebo b).
+#### Zákon č. 110/13: Definice jednacího sálu PSPHV
+> Jednacím sálem PSPHV se může rozumět i hlasový Discord kanál
 
 ---
 
@@ -44,9 +47,6 @@
 #### Zákon č. 108/6: Minimální mzda
 > Ministr financí určuje výši mezd všech federálních zaměstnanců (tj. zvolených poslanců PSPHV, členů vlády, vlastníků států a soudců). Mzda je kalkulována striktně podle počtu minut, během nichž hráč prokazatelně a aktivně vykonává danou činnost, přičemž minimální mzda federálního zaměstnance je pevně stanovena na 1 b za odpracovanou minutu. Platy státních zaměstnanců a úředníků nespadají pod federální pravomoc a plně se řídí příslušnými státními zákony.
 
-#### Zákon č. 108/9: Řečnická lhůta
-> Pro poslance PSPHV v roli navrhovatele se stanovuje řečnická lhůta 3 minuty na představení a zdůvodnění návrhu. Pro následnou rozpravu (zahrnující otázky a odpovědi) se stanovuje limit 1 minuty na jeden výstup. Předseda PSPHV smí odebrat řečníkovi slovo při zjevném záměrném zdržování jednání (obstrukci) nebo při prokazatelném odchýlení od věcné podstaty projednávaného tématu.
-
 ---
 
 ## HLAVA III: PRAVOMOCI PSPHV
@@ -70,20 +70,68 @@
 #### Zákon č. 105/3: Ochrana ústavnosti
 > Návrhy, které porušují platnou Ústavu, musí být předsedou PSPHV zrušeny bez hlasování a označeny jako neplatné.
 
-#### Zákon č. 105/19: Předkládání návrhů a diskuze
-> Návrhy do PSPHV se smí předkládat kdykoliv před nebo během daného jednání. Každý návrh musí projít diskuzí, při které se musí vyjádřit alespoň jeden poslanec a navrhovatel.
+#### Zákon č. 105/19 + 110/P3 + 110/P4: Předkládání návrhů a diskuze
+> Návrhy do PSPHV se smí předkládat kdykoliv před nebo během daného jednání. Každý návrh musí projít diskuzí, při které se musí vyjádřit alespoň jeden poslanec a navrhovatel. Hráč se k návrhu v diskuzi musí vyjádřit věcně. Pokud se hráč domnívá, že je neprávem potrestán za nevěcné vyjádření, smí podat námitku k soudu.
 
 #### Zákon č. 105/20: Povinnost účasti v diskuzi
 > Předseda PSPHV smí předvolat poslance k diskuzi. Předvolaný poslanec je povinen se k projednávanému bodu vyjádřit.
 
-#### Zákon č. 105/21: Pořádkové pokuty v PSPHV
-> Předseda PSPHV smí udělovat pokuty za prohřešky spáchané na daném jednání PSPHV. Tyto pokuty musí být zapsány na konec protokolu jednání.
+#### Zákon č. 105/21 + 109/2: Pořádkové pokuty v PSPHV
+> Předseda PSPHV smí udělovat pořádkové pokuty za prohřešky spáchané na daném jednání PSPHV. Tyto pokuty musí být zapsány na konec protokolu jednání. Pořádková pokuta nesmí přesáhnout výši 100b, udělení pořádkové pokuty musí být potvrzeno hlasováním v PSPHV. V případě pochybností o ústavnosti pořádkové pokuty se smí potrestaný odvolat k RH, který prošetří její ústavnost.
 
 #### Zákon č. 105/22: Průběžný zápis z jednání
 > Předseda PSPHV musí během jednání PSPHV průběžně a veřejně zapisovat návrhy a jejich aktuální stav ve formátu: stav schválení, číslo návrhu, politické uskupení, jméno navrhovatele a plné znění návrhu.
 
 #### Zákon č. 105/23: Protokol o zahájení jednání
 > Předseda PSPHV musí při zahájení jednání PSPHV zapsat číslo jednání, účast, své jméno jako předsedy a aktuální rozložení Voličské síly.
+
+#### Zákon č. 108/9: Řečnická lhůta
+> Pro poslance PSPHV v roli navrhovatele se stanovuje řečnická lhůta 3 minuty na představení a zdůvodnění návrhu. Pro následnou rozpravu (zahrnující otázky a odpovědi) se stanovuje limit 1 minuty na jeden výstup. Předseda PSPHV smí odebrat řečníkovi slovo při zjevném záměrném zdržování jednání (obstrukci) nebo při prokazatelném odchýlení od věcné podstaty projednávaného tématu.
+
+#### Zákon č. 109/3: Výběr předsedy PSPHV
+> Předsedou PSPHV pro dané jednání se stává ten z přítomných poslanců, který dosáhne nejvyšší hodnoty tzv. Předsednického indexu. Výpočet tohoto indexu a určení předsedy probíhá podle následujícího závazného postupu:
+> Pro každého přítomného poslance se vynásobí jeho aktuální voličská síla pořadovým číslem aktuálního jednání v probíhajícím volebním období.
+> Od této hodnoty se odečte součin celkové voličské síly celé PSPHV (součet voličské síly všech poslanců) a počtu dosavadních předsednictví daného poslance v probíhajícím volebním období.
+> Poslanec s nejvyšším výsledným číslem se stává předsedou PSPHV.
+> V případě, že má více přítomných poslanců shodnou nejvyšší hodnotu indexu, stává se předsedou ten z nich, od jehož posledního předsednictví v aktuálním volebním období uplynula nejdelší doba (tj. naposledy předsedal v dřívějším jednání). Pokud dotčení poslanci v aktuálním volebním období ještě nepředsedali, jsou si v tomto kritériu rovni.
+> Pokud nelze rozhodnout podle předchozího bodu, stává se předsedou ten ze shodujících se poslanců, který disponuje vyšší voličskou silou.
+> Pokud nelze rozhodnout ani podle voličské síly, stává se předsedou poslanec, jehož herní jméno je dříve v abecedním pořadí.
+
+#### Zákon č. 110/P2: Minimální počet poslanců ke schválení návrhu
+> Aby směl návrh projít, musí být PRO alespoň dva zvolení poslanci.
+
+#### Zákon č. 110/3: Svolávání řádných schůzí PSPHV
+> Řádné jednání PSPHV smí svolat jakýkoliv člen vlády. Pozvánka na takové jednání musí být veřejná a poslána alespoň 24 hodin před zahájením daného jednání. Řádné jednání PSPHV lze naplánovat pouze tehdy, když je na dané jednání podán alespoň 1 návrh.
+
+#### Zákon č. 110/4: Svolávání mimořádných schůzí PSPHV
+> Mimořádné jednání PSPHV smí svolat jakýkoliv zvolený poslanec, pokud na dané jednání podal alespoň 1 návrh, řádné jednání PSPHV se neuskutečnilo po dobu alespoň 3 dnů a žádné řádné jednání PSPHV není do 48 hodin naplánováno. Pozvánka na takové jednání musí být veřejná a poslána alespoň 24 hodin před zahájením daného jednání.
+
+#### Zákon č. 110/5: Svolávání spontánních mimořádných schůzí PSPHV
+> Mimořádné jednání PSPHV smí být svoláno spontánně, pokud se v PSPHV nachází zvolení poslanci o součtu jejich voličské síly vyšší než 2/3 z celkové voličské síly. V takovém případě se pozvánka na jednání PSPHV neposílá.
+
+#### Zákon č. 110/6: Pracovní doba poslanců při přerušení schůze PSPHV
+> Poslancům se nezapočítává pracovní doba po dobu přerušení jednání PSPHV.
+
+#### Zákon č. 110/7: Vyhlašování přestávek
+> Předseda PSPHV smí vyhlásit přestávku po maximální dobu kumulativně 10 minut na dané jednání PSPHV. Pro vyhlášení přestávky nad stanovenou maximální dobu je třeba hlasování v PSPHV.
+
+#### Zákon č. 110/8: Odročování schůzí
+> Předseda PSPHV smí odročit jednání až o 48 hodin, pro odročení je třeba hlasování v PSPHV.
+
+#### Zákon č. 110/9: Zaznamenávání pracovní doby
+> Předseda PSPHV zaznamenává dobu, po kterou jsou jednotliví poslanci na daném jednání přítomní. Podle toho se odvíjí plat poslance za dané jednání.
+
+#### Zákon č. 110/10: Zřeknutí se role předsedy PSPHV
+> Poslanec se smí zřeknout role předsedy PSPHV na dané jednání PSPHV. V takovém případě se předsedou PSPHV pro dané jednání stane další hráč s nejvyšší hodnotou předsednického indexu.
+
+#### Zákon č. 110/11: Odvolání předsedy PSPHV
+> V případě úspěšného odvolání předsedy PSPHV prověří RH chování daného předsedy. Předsedou PSPHV pro zbytek daného jednání se stane další hráč s nejvyšší hodnotou předsednického indexu
+
+#### Zákon č. 110/12: Přítomnost předsedy PSPHV
+> Předseda PSPHV musí být přítomen na celé jednání PSPHV. V případě absence předsedy na daném jednání se pro zbytek daného jednání stane předsedou PSPHV další hráč s nejvyšší hodnotou předsednického indexu. Absenci předsedy PSPHV v případě podání námitky na nepřítomnost prověří RH.
+
+#### Zákon č. 110/14: Účast v PSPHV bez možnosti hlasové komunikace
+> Poslanec zúčastněný v jednání PSPHV způsobem, který mu nedává možnost komunikovat jinak než hlasem, má právo se hlásit či hlasovat využitím svého hlasu, aniž by byla tato akce považována za vyrušování, ale pouze v přiměřené míře
 
 ---
 
@@ -111,9 +159,6 @@
 #### Zákon č. 105/15: Procesní lhůty soudního řízení
 > Soudce je povinen ihned po zareagování na námitku stanovit termín soudního jednání, které musí proběhnout nejpozději do 3 dnů.
 
-#### Zákon č. 105/16: Odměna soudce
-> Soudce obdrží odměnu ve výši 5 000 b.ch. ihned po zareagování na námitku.
-
 #### Zákon č. 106/1: Pořádkové pokuty u soudu
 > Soudce smí udělovat pořádkové pokuty za prohřešky spáchané na daném soudním jednání, tyto pokuty musí být zapsány ve verdiktu jednání. Pořádková pokuta nesmí přesáhnout výši 100b.
 
@@ -126,12 +171,18 @@
 #### Zákon č. 108/8: Uhrazování nákladů soudního řízení
 > Soudní orgán smí v rámci soudního řízení požadovat po potrestaném hráči dodatečné uhrazení veškerých finančních nákladů, které prokazatelně vznikly v přímé souvislosti se soudním procesem.
 
+#### Zákon č. 109/1: Odměna soudce
+> Soudce po zareagování na námitku dostane odměnu ve výši 500b, plat dostane od odvedené práce.
+
 ---
 
 ## HLAVA VII: STÁTY
 
 #### Zákon č. 106/4: Vytváření státních zákonů
 > Státy mají právo přijímat vlastní zákony, které platí výhradně na jejich území. Zákony smí vydávat pouze vlastník státu, a to ve spolupráci s rezidenty státu. Federální zákony mají přednost před státními zákony.
+
+#### Zákon č. 110/1: Garance financí ve státním rozpočtu
+> Ve federálním rozpočtu má každý stát zákonem garantovanou minimální výši svého státního rozpočtu. Tato garantovaná částka se vypočítá tak, že se procentuální podíl státu na celkové voličské síle vydělí třemi (1/3), tento výsledný procentuální podíl se aplikuje na celkovou částku vyčleněnou ve federálním rozpočtu pro všechny státní rozpočty dohromady.
 
 ---
 
