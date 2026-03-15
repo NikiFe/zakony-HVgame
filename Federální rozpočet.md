@@ -16,9 +16,9 @@
 - Investice: 8 000b
 - **Státní rozpočty: 50 000b**
   - Baronis: 6 000b
-  - Honzov: 10 000b
+  - DLRN: 15 000b
   - imgoodov: 2 500b
   - Manfredowo: 3 500b
   - Nexor: 12 500b
   - Nový Dandov: 500b
-  - Nuggetov: 15 000b
+  - Vitjovská aliance: 10 000b
