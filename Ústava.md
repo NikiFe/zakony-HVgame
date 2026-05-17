@@ -111,9 +111,9 @@
 
 6.4. **RH** smí při zvlášť závažném porušení ústavy vyřadit kandidáta či **PSubN** z voleb, či volby anulovat. Tento krok musí být odsouhlasen většinou přítomných členů **RH** a řádně odůvodněn.
 
-6.5. Volby do **PSPHV** přerozdělují **VS** hráčů v **PSPHV**, která je určena kandidátům od začátku nového volebního období. Nové volební období **PSPHV** začíná vyhlášením výsledků voleb.
+6.5. Volby do **PSPHV** přerozdělují pevných 100 jednotek **VS** mezi kandidáty od začátku nového volebního období. Nové volební období **PSPHV** začíná vyhlášením výsledků voleb.
 
-6.6. Hráči bez registrovaného bydliště jsou přiřazeni ke zvláštnímu státu „Žádný z uvedených“, součet hlasů hráčů daného státu nesmí převyšovat 10 % součtu hlasů z ostatních států.
+6.6. Hráči bez registrovaného bydliště tvoří zvláštní stát „Žádný z uvedených“. Základní váha každého odevzdaného hlasu je 1. Pokud by počet hlasů od hráčů bez bydliště přesáhl 10 % ze všech odevzdaných hlasů ve volbách, hodnota jejich hlasu se rovnoměrně sníží (devalvuje) tak, aby součet jejich hlasů po přepočtu tvořil přesně 10 % z celkové hodnoty všech vážených hlasů.
 
 6.7. Každý volič má k dispozici právě 1 hlas. Tento hlas smí odevzdat buď konkrétnímu nezařazenému kandidátovi, nebo **PSubN**. Pokud volič odevzdá hlas **PSubN**, musí zároveň udělit preferenční hlas právě jednomu konkrétnímu kandidátovi v rámci tohoto **PSubN**.
 
