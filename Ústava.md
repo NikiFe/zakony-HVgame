@@ -115,9 +115,11 @@
 
 6.6. Hráči bez registrovaného bydliště jsou přiřazeni ke zvláštnímu státu „Žádný z uvedených“, součet hlasů hráčů daného státu nesmí převyšovat 10 % součtu hlasů z ostatních států.
 
-6.7. Každý volič má k dispozici právě 1 hlas, který smí odevzdat buď nezařazenému kandidatovi, nebo kandidátovi v **PSub**, tedy i **PSubN** jako takovému.
+6.7. Každý volič má k dispozici právě 1 hlas. Tento hlas smí odevzdat buď konkrétnímu nezařazenému kandidátovi, nebo **PSubN**. Pokud volič odevzdá hlas **PSubN**, musí zároveň udělit preferenční hlas právě jednomu konkrétnímu kandidátovi v rámci tohoto **PSubN**.
 
-6.8. V případě, že **PSubN** získá ve volbách alespoň 1 hlas, všichni kandidáti za daný **PSubN**, kteří nezískali žádný hlas, ziskají 1 **VS**, která je přerozdělena po jednotkách **VS** poměrově od kandidátů **PSubN**, kteří získali alespoň 1 hlas a mají více než 1 **VS**. Přerozdělování **VS** v rámci **PSubN** se zastaví tehdy, mají všichni kandidáti daného **PSubN** bez hlasů právě 1 **VS**, nebo není-li možné přerozdělit další jednotku **VS** bez toho, aniž by jiný kandidát přišel o všechnu jeho **VS**.
+6.8. Přerozdělování **VS** probíhá na základě odevzdaných hlasů ve dvou fázích. Nejprve se celková **VS** přerozdělí poměrně mezi jednotlivé **PSubN** a nezařazené kandidáty na základě jejich celkového počtu získaných hlasů. Získaná **VS** každého **PSubN** se následně přerozdělí poměrně mezi jeho jednotlivé kandidáty podle počtu jejich obdržených preferenčních hlasů.
+
+6.9. V případě, že v rámci **PSubN** existují kandidáti, kteří nezískali žádný hlas, aplikuje se mechanismus solidárního dorovnání. Každému kandidátovi daného **PSubN** bez hlasu je přidělena 1 **VS**. Potřebná **VS** k dorovnání se postupně po jednotkách odebírá kandidátům téhož **PSubN**, kteří získali alespoň 1 hlas a disponují více než 1 **VS**. Odebírání **VS** probíhá poměrně k počtu hlasů úspěšných kandidátů. Proces se zastaví, jakmile mají všichni kandidáti daného **PSubN** alespoň 1 VS, nebo jakmile nelze odebrat další **VS** bez toho, aniž by některý z úspěšných kandidátů klesl pod 1 **VS**.
 
 ---
 
