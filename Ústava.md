@@ -1,6 +1,7 @@
 # Ústava HVgame
 
 ---
+
 ## Seznam zkratek
 
 *   **PSub** - Politický subjekt
@@ -12,7 +13,8 @@
 *   **VS** - Voličská síla
 *   **Poslanec** - Hráč s **VS**
 *   **GM** - Gamemaster
-
+*   **SRHV** - Spojené republiky HVgame
+  
 ---
 
 ## Definice
@@ -31,7 +33,7 @@
 
 1.1. Bydliště hráčů posuzuje **GM**, případně **RH**. Při změně registrace bydliště musí hráč nebo vlastník státu kontaktovat **GM**.
 
-1.2. Od vyhlášení až do ukončení voleb do **PSPHV** není hráčům dovoleno měnit své bydliště.
+1.2. Bydliště vlastníka státu je právě ten stát, jehož je vlastníkem.
 
 ---
 
@@ -49,13 +51,13 @@
 
 3.2. Verdikt **RH** je platný, pokud jej podpoří většina přítomných členů **RH**.
 
-3.3. Jednání **RH** se mohou konat pouze tehdy, je-li přítomen předseda **RH** a alespoň polovina členů **RH** klíčových států, nebo většina členů **RH** klíčových států.
+3.3. Jednání **RH** se mohou konat pouze tehdy, je-li přítomen předseda **RH** a alespoň polovina členů **RH** klíčových států, nebo není-li přítomen předseda **RH**, ale většina členů **RH** klíčových států.
 
 3.4. Členové **RH** si volí předsedu **RH**, který je ve funkci do doby rezignace nebo odvolání většinou členů **RH**. Předseda **RH** zveřejňuje verdikty **RH** a řídí jednání **RH**.
 
 3.5. **RH** spravuje ústavu HVgame. Veškeré změny ústavy musí být schváleny většinou přítomných členů **RH**. Předseda **RH** je odpovědný za zveřejnění a aktualizaci schváleného znění ústavy.
 
-3.6. Každý hráč smí podat ústavní námitku, pokud se domnívá, že některý zákon porušuje ústavu, nebo pokud identifikoval nejasnost v jejím znění. **RH** je povinna námitku projednat a svůj verdikt veřejně odůvodnit.
+3.6. Každý hráč smí podat ústavní námitku, pokud se domnívá, že zákon porušuje ústavu, nebo pokud identifikuje nejasnost v jejím znění. **RH** je povinna námitku projednat a svůj verdikt veřejně odůvodnit.
 
 3.7. Pokud se některý člen **RH** nebo účastník soudního řízení domnívá, že během soudního jednání došlo k porušení ústavy, může **RH** rozhodnout o jeho odvolání. **RH** smí nařídit nové řízení s jiným soudcem.
 
@@ -69,7 +71,7 @@
 
 4.3. Každý hráč či **PSub** smí být současně přímým členem a vlastníkem maximálně jednoho **PSub**.
 
-4.4. Každý **PSub** musí obsahovat unikátní název, adekvátní zkratku a barvu. **PStr** musí navíc obsahovat i vlastníka, který za danou PStr jedná. Vlastníky PUsk jsou vlastníci všech zúčastněných PStr.
+4.4. Každý **PSub** musí obsahovat unikátní název, adekvátní zkratku a barvu. **PStr** musí navíc obsahovat i vlastníka, který za danou **PStr** jedná. Vlastníky **PUsk** jsou vlastníci všech zúčastněných **PStr**.
 
 4.5. Každý **PSubN** má k dispozici vlastní veřejný a soukromý Discord kanál, do kterých mohou členové daného **PSubN** posílat zprávy. Každá **PStr**, která je součástí **PUsk**, má k dispozici vlastní soukromý Discord kanál.
 
@@ -91,7 +93,7 @@
 
 5.6. Poslanci smí odvolat předsedu **PSPHV**, nedodržuje-li zákony.
 
-5.7. Každý **Poslanec** má právo hlasovat PRO nebo PROTI návrhu, využívá své **VS**.
+5.7. Každý **Poslanec** má právo hlasovat PRO nebo PROTI návrhu, či se zdržet hlasování, využívá své **VS**.
 
 5.8. Návrhy, pro které je po ukončení hlasování součet **VS** PRO vyšší než součet **VS** PROTI, jsou zapsány do seznamu zákonů ihned po jejich schválení.
 
@@ -101,21 +103,23 @@
 
 ## 6. Volby do PSPHV
 
-6.1. **GM** organizuje volby do **PSPHV** a počítá jejich výsledky dle státních zákonů. Zákon stanovuje dobu voleb.
+6.1. **GM** organizuje volby do **PSPHV** a počítá jejich výsledky dle ústavy.
 
-6.2. Volby do **PSPHV** se konají vždy do 45 dní od předchozích voleb tak, aby první jednání **PSPHV** proběhlo v den pracovního klidu, a to vždy třetí den od ukončení voleb.
+6.2. **PSPHV** schvaluje datum konání a dobu voleb. Volby se musí uskutečnit minimálně 14 dnů od schválení návrhu a maximálně do 45 dnů od předchozích voleb do **PSPHV**.
 
-6.3. Každý člen **RH** mimo **GM** je považován za kandidáta do voleb do **PSPHV**. Ostatní hráči mohou podat svou kandidaturu nejpozději do jednoho dne před zahájením voleb. Kandidát nesmí ve volbách hlasovat sám pro sebe. V případě, že se kandidát voleb nezúčastní, nebo je jeho hlas započítán jako neplatný, dostane 0 **VS** bez ohledu na výsledky voleb.
+6.3. Každý hráč mimo **GM** smí kandidovat ve volbách do **PSPHV**. Hráči mohou podat svou kandidaturu nejpozději do 5 dnů před zahájením voleb. Kandidát nesmí ve volbách hlasovat sám pro sebe, ani pro **PSubN**, za který kandiduje. V případě, že se kandidát voleb nezúčastní, nebo je jeho hlas započítán jako neplatný, dostane 0 **VS** bez ohledu na výsledky voleb.
 
-6.4. Volby do **PSPHV** přerozdělují **VS** hráčů v **PSPHV**, která je určena kandidátům od začátku nového volebního období.
+6.4. **RH** smí při zvlášť závažném porušení ústavy vyřadit kandidáta či **PSubN** z voleb, či volby anulovat. Tento krok musí být odsouhlasen většinou přítomných členů **RH** a řádně odůvodněn.
 
-6.5. Do jednoho dne před začátkem voleb musí být každému státu známé jeho obyvatelstvo, jehož hlasy jsou po ukončení voleb rozděleny mezi kandidáty podle demokratických zákonů daného státu.
+6.5. Volby do **PSPHV** přerozdělují pevných 100 jednotek **VS** mezi kandidáty od začátku nového volebního období. Nové volební období **PSPHV** začíná vyhlášením výsledků voleb.
 
-6.6. Hráči bez registrovaného bydliště jsou přiřazeni ke zvláštnímu státu „Žádný z uvedených“, součet hlasů hráčů daného státu nesmí převyšovat 10 % součtu hlasů z ostatních států.
+6.6. Hráči bez registrovaného bydliště tvoří zvláštní stát „Žádný z uvedených“. Základní váha každého odevzdaného hlasu je 1. Pokud by počet hlasů od hráčů bez bydliště přesáhl 10 % ze všech odevzdaných hlasů ve volbách, hodnota jejich hlasu se rovnoměrně sníží (devalvuje) tak, aby součet jejich hlasů po přepočtu tvořil přesně 10 % z celkové hodnoty všech vážených hlasů.
 
-6.7. Nové volební období **PSPHV** začíná okamžitě po vyhlášení výsledků voleb.
+6.7. Každý volič má k dispozici právě 1 hlas. Tento hlas smí odevzdat buď nezařazenému kandidátovi, nebo **PSubN**. Pokud volič odevzdá hlas **PSubN**, musí zároveň udělit preferenční hlas právě jednomu konkrétnímu kandidátovi v rámci tohoto **PSubN**.
 
-6.8. Každý hráč má k dispozici právě 1 hlas.
+6.8. Přerozdělování **VS** probíhá na základě odevzdaných **vážených hlasů**. Nejprve se celkových 100 **VS** přerozdělí poměrně mezi jednotlivé **PSubN** a nezařazené kandidáty na základě celkového počtu jejich získaných vážených hlasů. Získaná **VS** každého **PSubN** se následně přerozdělí poměrně mezi jeho kandidáty podle počtu jejich obdržených vážených preferenčních hlasů. Všechna zaokrouhlování v této fázi určuje **GM** tak, aby byl vždy rozdělen přesný počet získané **VS**.
+
+6.9. V případě, že v rámci **PSubN** existují kandidáti, kteří nezískali žádný hlas, aplikuje se mechanismus solidárního dorovnání. Každému kandidátovi daného **PSubN** bez hlasu je přidělena 1 **VS**. Potřebná **VS** k dorovnání se postupně po jednotkách odebírá kandidátům téhož **PSubN**, kteří získali alespoň 1 hlas a disponují více než 1 **VS**. Odebírání **VS** probíhá poměrně k počtu získaných vážených hlasů úspěšných kandidátů. Přerozdělování se zastaví ve chvíli, kdy mají všichni kandidáti daného **PSubN** alespoň 1 **VS**, nebo není-li možné odebrat další **VS** bez toho, aniž by jiný kandidát přišel o veškerou svou zbývající **VS**.
 
 ---
 
@@ -172,3 +176,9 @@
 10.3. **GM** má právo vyvolávat externí události, které přímo ovlivňují chod serveru.
 
 10.4. **GM** plně spravuje a ovládá státy mimo federaci, se kterými mohou hráči a vláda vstupovat do interakce.
+
+---
+
+## 11. Federace
+
+11.1. Oficiální název federace je **SRHV**
