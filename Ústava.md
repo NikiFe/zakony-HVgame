@@ -1,6 +1,7 @@
 # Ústava HVgame
 
 ---
+
 ## Seznam zkratek
 
 *   **PSub** - Politický subjekt
