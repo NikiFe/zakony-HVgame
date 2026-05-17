@@ -12,7 +12,8 @@
 *   **VS** - Voličská síla
 *   **Poslanec** - Hráč s **VS**
 *   **GM** - Gamemaster
-
+*   **SRHV** - Spojené republiky HVgame
+  
 ---
 
 ## Definice
@@ -24,7 +25,6 @@
 *   **Federace** - Celek složený z jednotlivých hráči ovládaných států
 *   **Federální zákon** - Zákon schválený v **PSPHV**
 *   **Klíčový stát** - Stát, jehož počet obyvatel je větší než 2
-*   **SRHV** - Spojené republiky HVgame
 
 ---
 
