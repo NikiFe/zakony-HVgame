@@ -51,7 +51,7 @@
 
 3.2. Verdikt **RH** je platný, pokud jej podpoří většina přítomných členů **RH**.
 
-3.3. Jednání **RH** se mohou konat pouze tehdy, je-li přítomen předseda **RH** a alespoň polovina členů **RH** klíčových států, nebo většina členů **RH** klíčových států.
+3.3. Jednání **RH** se mohou konat pouze tehdy, je-li přítomen předseda **RH** a alespoň polovina členů **RH** klíčových států, nebo není-li přítomen předseda **RH**, ale většina členů **RH** klíčových států.
 
 3.4. Členové **RH** si volí předsedu **RH**, který je ve funkci do doby rezignace nebo odvolání většinou členů **RH**. Předseda **RH** zveřejňuje verdikty **RH** a řídí jednání **RH**.
 
