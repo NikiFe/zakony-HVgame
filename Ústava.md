@@ -35,6 +35,8 @@
 
 1.2. Bydliště vlastníka státu je právě ten stát, jehož je vlastníkem.
 
+1.3. Bydliště hráčů je veřejně dostupné, při každé změně musí být zveřejněna aktualizovaná verze.
+
 ---
 
 ## 2. Vlastník státu
